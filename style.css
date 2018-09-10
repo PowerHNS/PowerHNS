@@ -4,3 +4,8 @@ body {
     padding: 20px;
     font-family: Arial;
 }
+
+#MainName{
+    text-align: center;
+    font-size: 250%;
+}
