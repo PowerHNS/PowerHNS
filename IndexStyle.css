@@ -12,7 +12,8 @@ body {
 
 #page{
     max-width: 1220px;
-    min-width: 720px;border: 6px solid purple;
+    min-width: 720px;
+    border: 6px solid darkblue;
     margin: 10px auto;
     padding: 20px;
     background-color: #ffffff;
