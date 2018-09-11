@@ -3,6 +3,7 @@ body {
     color: black;
     padding: 20px;
     font-family: Arial;
+    letter-spacing: 0.15em;
 }
 
 #MainName{
@@ -27,4 +28,21 @@ body {
     border-bottom: 1px solid #000;
     text-align: center;
     background-color: darkgray;
+}
+
+#a, #home{
+    color: #000000;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 6px 18px;
+}
+
+#a:hover, #home{
+    color: #ffffff;
+    background-color: darkgray;
+}
+
+li{
+    display: inline;
+    margin: 0 3px;
 }
