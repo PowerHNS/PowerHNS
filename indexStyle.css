@@ -24,11 +24,11 @@ body {
 }
 
 #tabs{
-    width: 570px;
+    width: 800px;
     padding: 15px;
     margin: 0 auto;
-    border-top: 2px solid #000;
-    border-bottom: 1px solid #000;
+    border-top: 5px solid #000;
+    border-bottom: 4px solid #000;
     text-align: center;
     background-color: darkgray;
 }
