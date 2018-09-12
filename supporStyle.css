@@ -1,36 +1,7 @@
-body {
-    background-image: url("BackgroundPicture01.png");
-    background-position: center;
-    background-position-y: -100px;
-    background-repeat: no-repeat;
-    color: black;
-    padding: 20px;
-    font-family: Arial;
-    letter-spacing: 0.15em;
-}
 
 #MainName{
     text-align: center;
     font-size: 250%;
-}
-
-#page{
-    max-width: 1220px;
-    min-width: 720px;
-    border: 6px solid red;
-    margin: 10px auto;
-    padding: 20px;
-    background-color: #ffffff;
-}
-
-#tabs{
-    width: 800px;
-    padding: 15px;
-    margin: 0 auto;
-    border-top: 5px solid #000;
-    border-bottom: 4px solid #000;
-    text-align: center;
-    background-color: darkgray;
 }
 
 #a, #support{
@@ -43,11 +14,6 @@ body {
 #a:hover, #support{
     color: #ffffff;
     background-color: darkgray;
-}
-
-#tab{
-    display: inline;
-    margin: 0 3px;
 }
 
 #payPal{

@@ -1,17 +1,16 @@
-
 #MainName{
     text-align: center;
     font-size: 250%;
 }
 
-#a, #home{
+#a, #forums{
     color: #000000;
     text-transform: uppercase;
     text-decoration: none;
     padding: 6px 18px;
 }
 
-#a:hover, #home{
+#a:hover, #forums{
     color: #ffffff;
     background-color: darkgray;
 }
