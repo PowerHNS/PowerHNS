@@ -1,7 +1,5 @@
-
-#MainName{
-    text-align: center;
-    font-size: 250%;
+#mainName{
+    position: center;
 }
 
 #a, #home{
