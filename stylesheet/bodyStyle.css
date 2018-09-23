@@ -18,17 +18,6 @@ body {
     background-color: #ffffff;
 }
 
-#tabs{
-    width: 800px;
-    padding: 15px;
-    margin: 0 auto;
-    border-top: 5px solid #000;
-    border-bottom: 4px solid #000;
+#mainName{
     text-align: center;
-    background-color: darkgray;
-}
-
-#tab{
-    display: inline;
-    margin: 0 3px;
 }

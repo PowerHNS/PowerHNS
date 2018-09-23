@@ -1,0 +1,26 @@
+#tabs{
+    width: 800px;
+    padding: 15px;
+    margin: 0 auto;
+    border-top: 5px solid #000;
+    border-bottom: 4px solid #000;
+    text-align: center;
+    background-color: darkgray;
+}
+
+.tab{
+    display: inline;
+    margin: 0 3px;
+}
+
+.a, #open{
+    color: #000000;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 6px 18px;
+}
+
+.a:hover, #open{
+    color: #ffffff;
+    background-color: darkgray;
+}
